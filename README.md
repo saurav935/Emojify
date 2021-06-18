@@ -1,7 +1,6 @@
 # Emojify
 
 
-![create-your-own-emoji-with-deep-learning-1200x675](https://user-images.githubusercontent.com/75733364/122510724-b25ffd00-d023-11eb-95d2-4157276f4737.jpg)
 
 
 Emojis or avatars are ways to indicate nonverbal cues. These cues have become an essential part of online chatting, product review, brand emotion, and many more. It also lead to increasing data science research dedicated to emoji-driven storytelling.
