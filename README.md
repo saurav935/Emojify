@@ -2,7 +2,7 @@
 
 
 
-
+# Introduction
 Emojis or avatars are ways to indicate nonverbal cues. These cues have become an essential part of online chatting, product review, brand emotion, and many more. It also lead to increasing data science research dedicated to emoji-driven storytelling.
 
 With advancements in computer vision and deep learning, it is now possible to detect human emotions from images. In this deep learning project, I have classified human facial expressions to filter and map corresponding emojis or avatars.
@@ -19,4 +19,4 @@ The FER2013 dataset ( facial expression recognition) consists of 48*48 pixel gra
 - 6:neutral
 
 # Facial Emotion Recognition using CNN
-In this deep learning project, I have built a convolution neural netwirk to recognize facial emotions. I have trained the model on the FER-2013 dataset. Then, I have mapped those emotions with the corresponding emojis/avatars.
+In this deep learning project, I have built a convolution neural network to recognize facial emotions. I have trained the model on the FER-2013 dataset. Then, I have mapped those emotions with the corresponding emojis/avatars.
