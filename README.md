@@ -55,6 +55,3 @@ In this deep learning project, I have built a convolution neural network to reco
 - Python
 - OpenCV
 - Various libraries like Numpy,pandas,Tkinter,etc.
-
-# Final advice:
-Don't worry if you don't get or understand all the details of this project, because I am myself a beginner in the world of Deep Learning, but in the end it's worth the effort !!
